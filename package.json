@@ -1,6 +1,6 @@
 {
     "name": "thingy-schema-validate",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "This is the description :-)",
     "scripts": {
         "build-coffee": "coffee -o output/ -c sources/source/*/*.coffee",
